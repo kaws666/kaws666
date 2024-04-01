@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
-<p align="left">My name is Martin Mauricio ... and I'm a BSIT student..., from CEU-Makati....<br> 
+<p align="left">My name is Martin Mauricio and I'm a BSIT student from CEU-Makati<br>📱 I love to listen to music and play fps games</p>
 
 
 ###
